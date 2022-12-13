@@ -1,2 +1,2 @@
 #!/bin/bash
-chmow -hR betty:alxschool .
+chown -hR betty:alxschool .
